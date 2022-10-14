@@ -16,7 +16,7 @@ For more details, see the _Project structure_ section below.
 ## Workflow
 
 - Set up your development environment.
-  - The back end can be spun up on any server you like. I recommend [forking this project on StackBlitz](https://stackblitz.com/edit/nextjs-cmpuwo) and running it within the browser. That way, you can easily share modifications to your back end with Builder's team with a single, live URL and without having to create a new repo to store your modifications.
+  - The back end can be spun up on any server you like. I recommend [forking this project on CodeSandbox](https://codesandbox.io/s/github/buildquick/builder-repro-react) and running it within the browser. That way, you can easily share modifications to your back end with Builder's team with a single, live URL and without having to create a new repo to store your modifications.
   - If you use a local development environment, you can click "Use this template" to create your own repo with the same contents. Then clone your new repo to your environment so that you can commit and share any modifications to the source code.
   - Forking this repo is only recommended if you intend to contribute changes to the template.
 - Clone Builder content to a new space within your organization.
@@ -34,7 +34,7 @@ For more details, see the _Project structure_ section below.
 
 ## Detailed setup instructions
 
-1. Clone this repo into your development environment. I recommend [forking on StackBlitz](https://stackblitz.com/edit/nextjs-cmpuwo), which will give you a development environment along with all the code from this repo.
+1. Clone this repo into your development environment. I recommend [forking on CodeSandbox](https://codesandbox.io/s/github/buildquick/builder-repro-react), which will give you a development environment along with all the code from this repo.
 2. Prepare your development environment: `npm install`
 3. Clone the template's Builder space into a new space within your Builder organization using [Builder's CLI tool](https://github.com/BuilderIO/builder/tree/main/packages/cli):
 
